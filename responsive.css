@@ -456,6 +456,7 @@
   }
   .slide-test-item i {
     margin-bottom: 40px;
+    transform: rotate(90deg);
   }
 
 
